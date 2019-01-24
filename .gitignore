@@ -1,5 +1,7 @@
 .idea
 models/*
+data/*
+assets/imgs/*
 .ipynb_checkpoints
 *.pyc
 __pycache__
