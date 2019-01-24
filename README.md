@@ -13,4 +13,4 @@
 
 # References
 
-[1](https://arxiv.org/abs/1806.07366) Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. "Neural Ordinary Differential Equations." Advances in Neural Processing Information Systems. 2018.
+[[1]](https://arxiv.org/abs/1806.07366) Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. "Neural Ordinary Differential Equations." Advances in Neural Processing Information Systems. 2018.
