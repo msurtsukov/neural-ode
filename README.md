@@ -1,6 +1,6 @@
 # Neural ODEs
 
-[Notebook](https://nbviewer.jupyter.org/github/urtrial/neural_ode/blob/master/Neural%20ODEs.ipynb) here collects theory, basic implementation and some experiments of [*Neural Ordinary Differential Equations*](https://arxiv.org/abs/1806.07366) [1] in one place.
+[Notebook](https://nbviewer.jupyter.org/github/urtrial/neural_ode/blob/master/Neural%20ODEs.ipynb) here collects theory, basic implementation and some experiments of [*Neural Ordinary Differential Equations*](https://arxiv.org/abs/1806.07366) [1].
 
 [Link to NBViewer](https://nbviewer.jupyter.org/github/urtrial/neural_ode/blob/master/Neural%20ODEs.ipynb)
 
