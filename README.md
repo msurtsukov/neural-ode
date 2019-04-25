@@ -2,8 +2,8 @@
 
 [Notebook](https://nbviewer.jupyter.org/github/urtrial/neural_ode/blob/master/Neural%20ODEs.ipynb) here collects theory, basic implementation and some experiments of [*Neural Ordinary Differential Equations*](https://arxiv.org/abs/1806.07366) [1].
 
-[Link to NBViewer](https://nbviewer.jupyter.org/github/urtrial/neural_ode/blob/master/Neural%20ODEs.ipynb)  
-[Link to NBViewer (Russian)](https://nbviewer.jupyter.org/github/urtrial/neural_ode/blob/master/Neural%20ODEs%20(Russian).ipynb)
+[Link to the blog post](https://msurtsukov.github.io/Neural-ODE/)  
+[Link to the blog post (Russian)](https://habr.com/ru/company/ods/blog/442002/)
 
 **For actual usage consider using authors [original implementation](https://github.com/rtqichen/torchdiffeq)**
 
